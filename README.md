@@ -1,0 +1,2 @@
+# wxmaxima
+all maxima shit
