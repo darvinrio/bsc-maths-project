@@ -1,2 +1,2 @@
 # wxmaxima
-all maxima shit
+ug project wooh
